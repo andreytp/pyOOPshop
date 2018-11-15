@@ -1,0 +1,200 @@
+In All4lanch mr. John Dou paid 4.05$ for butter at 6 hour
+In All4lanch mr. Chuck Norris paid -1000$ for butter at 6 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 3.15$ for butter at 6 hour
+In All4lanch mr. Charles Freddy Krueger paid 4.5$ for butter at 6 hour
+In All4lanch mr. Billy Bounce paid 4.27$ for butter at 6 hour
+In All4lanch mr. John Dou paid 3.97$ for butter at 7 hour
+In All4lanch mr. Chuck Norris paid -1000$ for butter at 7 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 3.09$ for butter at 7 hour
+In All4lanch mr. Charles Freddy Krueger paid 4.41$ for butter at 7 hour
+In All4lanch mr. Billy Bounce paid 4.19$ for butter at 7 hour
+In All4lanch mr. John Dou paid 4.05$ for butter at 8 hour
+In All4lanch mr. Chuck Norris paid -1000$ for butter at 8 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 3.15$ for butter at 8 hour
+In All4lanch mr. Charles Freddy Krueger paid 4.5$ for butter at 8 hour
+In All4lanch mr. Billy Bounce paid 4.27$ for butter at 8 hour
+In All4lanch mr. John Dou paid 4.05$ for butter at 11 hour
+In All4lanch mr. Chuck Norris paid -1000$ for butter at 11 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 3.15$ for butter at 11 hour
+In All4lanch mr. Charles Freddy Krueger paid 4.5$ for butter at 11 hour
+In All4lanch mr. Billy Bounce paid 4.27$ for butter at 11 hour
+In All4lanch mr. John Dou paid 4.05$ for butter at 13 hour
+In All4lanch mr. Chuck Norris paid -1000$ for butter at 13 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 3.15$ for butter at 13 hour
+In All4lanch mr. Charles Freddy Krueger paid 4.5$ for butter at 13 hour
+In All4lanch mr. Billy Bounce paid 4.27$ for butter at 13 hour
+In All4lanch mr. John Dou paid 4.05$ for butter at 15 hour
+In All4lanch mr. Chuck Norris paid -1000$ for butter at 15 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 3.15$ for butter at 15 hour
+In All4lanch mr. Charles Freddy Krueger paid 4.5$ for butter at 15 hour
+In All4lanch mr. Billy Bounce paid 4.27$ for butter at 15 hour
+In All4lanch mr. John Dou paid 4.05$ for butter at 18 hour
+In All4lanch mr. Chuck Norris paid -1000$ for butter at 18 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 3.15$ for butter at 18 hour
+In All4lanch mr. Charles Freddy Krueger paid 4.5$ for butter at 18 hour
+In All4lanch mr. Billy Bounce paid 4.27$ for butter at 18 hour
+In All4lanch mr. John Dou paid 3.04$ for butter at 21 hour
+In All4lanch mr. Chuck Norris paid -1000$ for butter at 21 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 2.36$ for butter at 21 hour
+In All4lanch mr. Charles Freddy Krueger paid 3.38$ for butter at 21 hour
+In All4lanch mr. Billy Bounce paid 3.21$ for butter at 21 hour
+In All4lanch mr. John Dou paid 5.06$ for butter at 23 hour
+In All4lanch mr. Chuck Norris paid -1000$ for butter at 23 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 3.94$ for butter at 23 hour
+In All4lanch mr. Charles Freddy Krueger paid 5.63$ for butter at 23 hour
+In All4lanch mr. Billy Bounce paid 5.34$ for butter at 23 hour
+In All4lanch mr. John Dou paid 12.83$ for ham at 6 hour
+In All4lanch mr. Chuck Norris paid -1000$ for ham at 6 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 9.97$ for ham at 6 hour
+In All4lanch mr. Charles Freddy Krueger paid 14.25$ for ham at 6 hour
+In All4lanch mr. Billy Bounce paid 13.54$ for ham at 6 hour
+In All4lanch mr. John Dou paid 12.57$ for ham at 7 hour
+In All4lanch mr. Chuck Norris paid -1000$ for ham at 7 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 9.78$ for ham at 7 hour
+In All4lanch mr. Charles Freddy Krueger paid 13.96$ for ham at 7 hour
+In All4lanch mr. Billy Bounce paid 13.27$ for ham at 7 hour
+In All4lanch mr. John Dou paid 12.83$ for ham at 8 hour
+In All4lanch mr. Chuck Norris paid -1000$ for ham at 8 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 9.97$ for ham at 8 hour
+In All4lanch mr. Charles Freddy Krueger paid 14.25$ for ham at 8 hour
+In All4lanch mr. Billy Bounce paid 13.54$ for ham at 8 hour
+In All4lanch mr. John Dou paid 12.83$ for ham at 11 hour
+In All4lanch mr. Chuck Norris paid -1000$ for ham at 11 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 9.97$ for ham at 11 hour
+In All4lanch mr. Charles Freddy Krueger paid 14.25$ for ham at 11 hour
+In All4lanch mr. Billy Bounce paid 13.54$ for ham at 11 hour
+In All4lanch mr. John Dou paid 12.83$ for ham at 13 hour
+In All4lanch mr. Chuck Norris paid -1000$ for ham at 13 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 9.97$ for ham at 13 hour
+In All4lanch mr. Charles Freddy Krueger paid 14.25$ for ham at 13 hour
+In All4lanch mr. Billy Bounce paid 13.54$ for ham at 13 hour
+In All4lanch mr. John Dou paid 12.83$ for ham at 15 hour
+In All4lanch mr. Chuck Norris paid -1000$ for ham at 15 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 9.97$ for ham at 15 hour
+In All4lanch mr. Charles Freddy Krueger paid 14.25$ for ham at 15 hour
+In All4lanch mr. Billy Bounce paid 13.54$ for ham at 15 hour
+In All4lanch mr. John Dou paid 12.83$ for ham at 18 hour
+In All4lanch mr. Chuck Norris paid -1000$ for ham at 18 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 9.97$ for ham at 18 hour
+In All4lanch mr. Charles Freddy Krueger paid 14.25$ for ham at 18 hour
+In All4lanch mr. Billy Bounce paid 13.54$ for ham at 18 hour
+In All4lanch mr. John Dou paid 9.62$ for ham at 21 hour
+In All4lanch mr. Chuck Norris paid -1000$ for ham at 21 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 7.48$ for ham at 21 hour
+In All4lanch mr. Charles Freddy Krueger paid 10.69$ for ham at 21 hour
+In All4lanch mr. Billy Bounce paid 10.15$ for ham at 21 hour
+In All4lanch mr. John Dou paid 16.03$ for ham at 23 hour
+In All4lanch mr. Chuck Norris paid -1000$ for ham at 23 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 12.47$ for ham at 23 hour
+In All4lanch mr. Charles Freddy Krueger paid 17.81$ for ham at 23 hour
+In All4lanch mr. Billy Bounce paid 16.92$ for ham at 23 hour
+In All4lanch mr. Chuck Norris paid -1000$ for beer at 6 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for beer at 7 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for beer at 8 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for beer at 11 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for beer at 13 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for beer at 15 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for beer at 18 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for beer at 21 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for beer at 23 hour, because he is Chuck Norris
+In All4lanch mr. John Dou paid 2.67$ for bread at 6 hour
+In All4lanch mr. Chuck Norris paid -1000$ for bread at 6 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 2.08$ for bread at 6 hour
+In All4lanch mr. Charles Freddy Krueger paid 2.97$ for bread at 6 hour
+In All4lanch mr. Billy Bounce paid 2.82$ for bread at 6 hour
+In All4lanch mr. John Dou paid 2.62$ for bread at 7 hour
+In All4lanch mr. Chuck Norris paid -1000$ for bread at 7 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 2.04$ for bread at 7 hour
+In All4lanch mr. Charles Freddy Krueger paid 2.91$ for bread at 7 hour
+In All4lanch mr. Billy Bounce paid 2.77$ for bread at 7 hour
+In All4lanch mr. John Dou paid 2.67$ for bread at 8 hour
+In All4lanch mr. Chuck Norris paid -1000$ for bread at 8 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 2.08$ for bread at 8 hour
+In All4lanch mr. Charles Freddy Krueger paid 2.97$ for bread at 8 hour
+In All4lanch mr. Billy Bounce paid 2.82$ for bread at 8 hour
+In All4lanch mr. John Dou paid 2.67$ for bread at 11 hour
+In All4lanch mr. Chuck Norris paid -1000$ for bread at 11 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 2.08$ for bread at 11 hour
+In All4lanch mr. Charles Freddy Krueger paid 2.97$ for bread at 11 hour
+In All4lanch mr. Billy Bounce paid 2.82$ for bread at 11 hour
+In All4lanch mr. John Dou paid 2.67$ for bread at 13 hour
+In All4lanch mr. Chuck Norris paid -1000$ for bread at 13 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 2.08$ for bread at 13 hour
+In All4lanch mr. Charles Freddy Krueger paid 2.97$ for bread at 13 hour
+In All4lanch mr. Billy Bounce paid 2.82$ for bread at 13 hour
+In All4lanch mr. John Dou paid 2.67$ for bread at 15 hour
+In All4lanch mr. Chuck Norris paid -1000$ for bread at 15 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 2.08$ for bread at 15 hour
+In All4lanch mr. Charles Freddy Krueger paid 2.97$ for bread at 15 hour
+In All4lanch mr. Billy Bounce paid 2.82$ for bread at 15 hour
+In All4lanch mr. John Dou paid 2.67$ for bread at 18 hour
+In All4lanch mr. Chuck Norris paid -1000$ for bread at 18 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 2.08$ for bread at 18 hour
+In All4lanch mr. Charles Freddy Krueger paid 2.97$ for bread at 18 hour
+In All4lanch mr. Billy Bounce paid 2.82$ for bread at 18 hour
+In All4lanch mr. John Dou paid 2.0$ for bread at 21 hour
+In All4lanch mr. Chuck Norris paid -1000$ for bread at 21 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 1.56$ for bread at 21 hour
+In All4lanch mr. Charles Freddy Krueger paid 2.23$ for bread at 21 hour
+In All4lanch mr. Billy Bounce paid 2.12$ for bread at 21 hour
+In All4lanch mr. John Dou paid 3.34$ for bread at 23 hour
+In All4lanch mr. Chuck Norris paid -1000$ for bread at 23 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 2.6$ for bread at 23 hour
+In All4lanch mr. Charles Freddy Krueger paid 3.71$ for bread at 23 hour
+In All4lanch mr. Billy Bounce paid 3.53$ for bread at 23 hour
+In All4lanch mr. Chuck Norris paid -1000$ for cake at 6 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for cake at 7 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for cake at 8 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for cake at 11 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for cake at 13 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for cake at 15 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for cake at 18 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for cake at 21 hour, because he is Chuck Norris
+In All4lanch mr. Chuck Norris paid -1000$ for cake at 23 hour, because he is Chuck Norris
+In All4lanch mr. John Dou paid 8.37$ for coffee at 6 hour
+In All4lanch mr. Chuck Norris paid -1000$ for coffee at 6 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 6.51$ for coffee at 6 hour
+In All4lanch mr. Charles Freddy Krueger paid 9.3$ for coffee at 6 hour
+In All4lanch mr. Billy Bounce paid 8.83$ for coffee at 6 hour
+In All4lanch mr. John Dou paid 8.2$ for coffee at 7 hour
+In All4lanch mr. Chuck Norris paid -1000$ for coffee at 7 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 6.38$ for coffee at 7 hour
+In All4lanch mr. Charles Freddy Krueger paid 9.11$ for coffee at 7 hour
+In All4lanch mr. Billy Bounce paid 8.66$ for coffee at 7 hour
+In All4lanch mr. John Dou paid 8.37$ for coffee at 8 hour
+In All4lanch mr. Chuck Norris paid -1000$ for coffee at 8 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 6.51$ for coffee at 8 hour
+In All4lanch mr. Charles Freddy Krueger paid 9.3$ for coffee at 8 hour
+In All4lanch mr. Billy Bounce paid 8.83$ for coffee at 8 hour
+In All4lanch mr. John Dou paid 8.37$ for coffee at 11 hour
+In All4lanch mr. Chuck Norris paid -1000$ for coffee at 11 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 6.51$ for coffee at 11 hour
+In All4lanch mr. Charles Freddy Krueger paid 9.3$ for coffee at 11 hour
+In All4lanch mr. Billy Bounce paid 8.83$ for coffee at 11 hour
+In All4lanch mr. John Dou paid 8.37$ for coffee at 13 hour
+In All4lanch mr. Chuck Norris paid -1000$ for coffee at 13 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 6.51$ for coffee at 13 hour
+In All4lanch mr. Charles Freddy Krueger paid 9.3$ for coffee at 13 hour
+In All4lanch mr. Billy Bounce paid 8.83$ for coffee at 13 hour
+In All4lanch mr. John Dou paid 8.37$ for coffee at 15 hour
+In All4lanch mr. Chuck Norris paid -1000$ for coffee at 15 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 6.51$ for coffee at 15 hour
+In All4lanch mr. Charles Freddy Krueger paid 9.3$ for coffee at 15 hour
+In All4lanch mr. Billy Bounce paid 8.83$ for coffee at 15 hour
+In All4lanch mr. John Dou paid 8.37$ for coffee at 18 hour
+In All4lanch mr. Chuck Norris paid -1000$ for coffee at 18 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 6.51$ for coffee at 18 hour
+In All4lanch mr. Charles Freddy Krueger paid 9.3$ for coffee at 18 hour
+In All4lanch mr. Billy Bounce paid 8.83$ for coffee at 18 hour
+In All4lanch mr. John Dou paid 6.28$ for coffee at 21 hour
+In All4lanch mr. Chuck Norris paid -1000$ for coffee at 21 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 4.88$ for coffee at 21 hour
+In All4lanch mr. Charles Freddy Krueger paid 6.97$ for coffee at 21 hour
+In All4lanch mr. Billy Bounce paid 6.63$ for coffee at 21 hour
+In All4lanch mr. John Dou paid 10.46$ for coffee at 23 hour
+In All4lanch mr. Chuck Norris paid -1000$ for coffee at 23 hour, because he is Chuck Norris
+In All4lanch mr. Jack Sparrow paid 8.14$ for coffee at 23 hour
+In All4lanch mr. Charles Freddy Krueger paid 11.62$ for coffee at 23 hour
+In All4lanch mr. Billy Bounce paid 11.04$ for coffee at 23 hour
+
+[Done] exited with code=0 in 0.065 seconds
