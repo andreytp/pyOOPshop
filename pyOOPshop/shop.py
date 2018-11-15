@@ -17,7 +17,6 @@ class Shop:
 
     def actual_cost(customer, product, hour):
         
-
         
         return 0
 
